@@ -1,0 +1,62 @@
+[
+  {
+    "item": "kopp",
+    "color": "grön",
+    "price": 199,
+    "image": "/images/greencup.jpeg"
+  },
+  {
+    "item": "tallrik",
+    "color": "vit",
+    "price": 299,
+    "image": "/images/tallrik-vit.jpeg"
+  },
+  {
+    "item": "kopp",
+    "color": "vit",
+    "price": 79,
+    "image": "/images/kopp-vit.webp"
+  },
+  {
+    "item": "glas",
+    "color": "orange",
+    "price": 499,
+    "image": "/images/glas-orange.webp"
+  },
+  {
+    "item": "vas",
+    "color": "vit",
+    "price": 899,
+    "image": "/images/vas-vit.jpg"
+  },
+  {
+    "item": "skål",
+    "color": "grön",
+    "price": 89,
+    "image": "/images/skal-gron.jpg"
+  },
+  {
+    "item": "skål",
+    "color": "vit",
+    "price": 89,
+    "image": "/images/skal-vit.jpg"
+  },
+  {
+    "item": "vas",
+    "color": "grön",
+    "price": 1999,
+    "image": "/images/vas-gron.jpeg"
+  },
+  {
+    "item": "Tallrik",
+    "color": "Blå",
+    "price": 199,
+    "image": "/images/blatallrik.jfif"
+  },
+  {
+    "item": "Vas",
+    "color": "Glas",
+    "price": 399,
+    "image": "/images/glasvas.jpg"
+  }
+]

@@ -1,0 +1,28 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#productDiv {
+    text-align: center;
+    justify-content: center;
+}
+
+#shoppingCart {
+    border: 3px solid rgb(46, 45, 45);
+    padding: 30px;
+    margin: 10px;
+}
+
+#title {
+    font-size: 100px;
+    text-align: center;
+    font-family: monospace;
+    padding: 15px;
+    padding-top: 40px;
+}
+
+footer {
+    margin: 50px;
+    text-align: center;
+}
